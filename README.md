@@ -11,6 +11,8 @@ Dependencies:
 
 -moviepy
 
+-pyopengl
+
 and more??
 
 Issues:
