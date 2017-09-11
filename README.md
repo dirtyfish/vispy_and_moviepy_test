@@ -11,5 +11,5 @@ and more??
 
 Issues:
 
-You might need to rename/copy magick.exe to convert.exe if you got newest version of Image Magic
-Or change some code.
+You might need to rename/copy magick.exe to convert.exe if you got newest version of Image Magic,
+or change some code.
